@@ -5,5 +5,4 @@ Nisanur Eltekin
 
 250541100
 Nisanur Eltekin
-Final Araştırma Ödevi
-(siber_guvenlik_raporu.pdf)
+Final Araştırma Ödevi: siber_guvenlik_raporu.pdf
